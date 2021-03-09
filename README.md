@@ -2,10 +2,15 @@
 Used to express delivery
 Project Name :FlashPostDelivery
 
-Tên Thành Viên : Nguyễn Bảo Long 
+|     Tên Thành Viên    |       Nguyễn Bảo Long      |      Nguyễn Thị Huờng         |        Lê Mạnh Hùng      |
+|:--------------------: | :-------------------------:|:-----------------------------:|:------------------------:|
+|      Mã Sinh Viên     |            SE05816         |            SE05881            |           SE05565        |
+|        Phần Việc      |  - Code các hàm và function    |            SE05881            |           SE05565        |
+
+Tên Thành Viên :  
 Mã Sinh Viên : SE05816
 Phần việc : Code các hàm và function, sửa và code front-end cho project,code hàm xử lí đăng nhập .
-Tên Thành Viên : Nguyễn Thị Huờng 
+Tên Thành Viên : 
 Mã Sinh Viên :	SE05881
 Phần việc : Code các hàm và function để lấy dữ liệu trong cơ sở dữ liệu . 
 Tên Thành Viên : Lê Mạnh Hùng 
@@ -27,3 +32,4 @@ contact->Status Update->quét mã qr->hiển thị thông tin->click vào trạn
 -Các service gồm +Calculate Rates :click và điền thông tin ->hiển thị giá tiền cước gửi gói hàng đó
 +Postal Network : chọn tỉnh-> chọn quận/huyện ->sẽ hiển thị các bưu cục hiện có trong tỉnh đó
 +Scan code QR : quét thông tin đơn hàng vs mà QR đã có 
+
